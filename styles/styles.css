@@ -27,6 +27,7 @@ html, body {
     font-weight: normal;
     text-shadow: none;
   }
+  
   h1:before {
     color: #fff;
     font-family: 'Rig Bold Inline', sans-serif;
